@@ -1,0 +1,55 @@
+{
+  "ACCOUNT": {
+    "accountId": 16909,
+    "accountName": "Brother - Japan",
+    "latestTrackedSearchTsModifiedByAccount": "2019-05-14T05:53:11.575Z",
+    "salesForceSupportType": "All-Access",
+    "salesForcePrimaryOwner": {
+      "id": "0050d000006fOasAAE",
+      "name": "Shiza Sajid",
+      "shortTitle": "CSM",
+      "longTitle": "SEO Success Manager",
+      "email": "ssajid@conductor.com",
+      "phone": null,
+      "accountOwnerType": "PRIMARY"
+    },
+    "salesForceAlternateOwner": {
+      "id": "00560000002zOT9AAM",
+      "name": "Fiona McGovern",
+      "shortTitle": "AD",
+      "longTitle": "Senior Director, EMEA",
+      "email": "fmcgovern@conductor.com",
+      "phone": "+44 7487 787857",
+      "accountOwnerType": "ALTERNATE"
+    },
+    "salesForceSupportOwner": null
+  },
+  "ROLE": {
+    "roles": [
+      "ROLE_GROUP_USER_ADMIN",
+      "ROLE_GROUP_DEMO_BED_BATH_AND_BEYOND_GUEST_3_ADMIN",
+      "ROLE_USER",
+      "ROLE_GROUP_CONDUCTORADMIN",
+      "ROLE_GROUP_CONDUCTOR_ACCOUNT_ADMIN",
+      "ROLE_GROUP_CONDUCTOR_ADMIN",
+      "ROLE_DEVELOPER",
+      "ROLE_GROUP_ROOT",
+      "ROLE_CONDUCTOR"
+    ]
+  },
+  "USER": {
+    "userEmail": "izakharchenko@conductor.com",
+    "userFullName": "Ievgen Zakharchenko",
+    "loggedInUserId": 33592
+  },
+  "WEB_PROPERTY": {
+    "webPropertyId": 591,
+    "webPropertyName": "brother.co.jp",
+    "rankSourceId": 1,
+    "rankSourceName": "GOOGLE_EN_US",
+    "googleRankSource": true,
+    "rankSourceBaseDomain": "google.com",
+    "latestCategoryModifiedByWebProperty": "2020-11-16T07:21:31.000Z",
+    "webPropertyCreatedAtTimestamp": 1546526405000
+  }
+}

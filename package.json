@@ -1,0 +1,80 @@
+{
+  "name": "cond-lang",
+  "version": "1.1.0",
+  "description": "",
+  "contributors": [],
+  "exports": {
+    "./": "./lib/"
+  },
+  "files": [
+    "package.json",
+    "README.md",
+    "lib"
+  ],
+  "typesVersions": {
+    "*": {
+      "routes": [
+        "lib/routes.d.ts"
+      ]
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexgul4enko/cond-lang.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alexgul4enko/cond-lang/issues"
+  },
+  "scripts": {
+    "start": "cond-app-scripts start",
+    "start:ci": "CI=true cond-app-scripts start",
+    "mf-config": "cond-app-scripts update-mf-config",
+    "ts-config": "cond-app-scripts update-ts-config",
+    "build": "NODE_ENV=production cond-app-scripts build",
+    "compile": "cond-app-scripts compile",
+    "test": "cond-app-scripts jest --watchAll --coverage",
+    "test:ci": "CI=true cond-app-scripts jest --coverage --coverageDirectory \"./test-results/coverage\"",
+    "cypress:open": "cond-app-scripts cypress-open",
+    "gql:codecheck": "cond-app-scripts graphql-codecheck",
+    "gql:fetch-schema": "cond-app-scripts graphql-download-schema",
+    "gql:codegen": "cond-app-scripts graphql-codegen",
+    "gql:watch": "cond-app-scripts graphql-codegen --watch",
+    "prereport": "rm test-results/* || true && rm reports/* || true && npm run ts:cypress",
+    "report": "CI=true npm run test:ci && npm run cypress:ci:e2e",
+    "postreport": "cond-app-scripts merge-reports",
+    "lint": "npm run eslint && npm run stylelint",
+    "lint:fix": "npm run eslint:fix && npm run stylelint:fix",
+    "eslint": "eslint .",
+    "eslint:fix": "eslint . --fix",
+    "stylelint": "stylelint 'src/**/*.scss'",
+    "stylelint:fix": "stylelint 'src/**/*.scss' --fix",
+    "prepare": "npm run ts-config && husky install",
+    "check-circular": "npx dpdm src/* --circular --exit-code circular:1",
+    "deploy": "npm run lint && npm run report && npm run build && npm run check-circular && npm run compile",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook",
+    "cypress:run:e2e": "cond-app-scripts cypress-run",
+    "cypress:ci:e2e": "cond-app-scripts cypress-ci",
+    "cypress:ci:components": "cond-app-scripts cypress-component",
+    "cypress:ci": "npm run cypress:ci:e2e && cypress:ci:components",
+    "ts:cypress": "tsc --project cypress/tsconfig.json"
+  },
+  "peerDependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "@apollo/client": "^3.6.9"
+  },
+  "devDependencies": {
+    "@apollo/client": "^3.6.9",
+    "@types/react": "^17.0.2",
+    "@types/react-dom": "^17.0.2",
+    "cond-app-core": "^1.4.1",
+    "cond-app-scripts": "^2.0.0",
+    "eslint-config-conductor": "^1.4.2",
+    "husky": "^8.0.1",
+    "lint-staged": "^13.0.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "stylelint-config-conductor": "^2.0.9"
+  }
+}

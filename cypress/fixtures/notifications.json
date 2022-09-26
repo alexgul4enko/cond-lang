@@ -1,0 +1,195 @@
+{
+  "nextCursor": null,
+  "content": [
+    {
+      "type": "workspaces.shared",
+      "accountId": 14,
+      "recipientId": 43206,
+      "title": "Oleksandr Gulchenko shared the Workspace '*Create Your Own Workspace*' with you and said:",
+      "message": "Check it out.",
+      "targetUrl": "/14/workspaces/26025",
+      "tags": {
+        "senderUserEmail": "ogulchenko@conductor.com",
+        "senderUserId": "43206",
+        "receiverUserEmail": "ogulchenko@conductor.com",
+        "senderUserName": "Oleksandr Gulchenko",
+        "receiverUserName": "Oleksandr Gulchenko",
+        "workspaceId": "26025"
+      },
+      "id": "c769ff12-3f91-403e-b3d7-0f16830b4c9e",
+      "createdAt": 1631693140038,
+      "status": "UNVIEWED"
+    },
+    {
+      "type": "workspaces.shared",
+      "accountId": 14,
+      "recipientId": 43206,
+      "title": "Oleksandr Gulchenko shared the Workspace '!Safia Test' with you and said:",
+      "message": "Check it out.",
+      "targetUrl": "/14/workspaces/28988",
+      "tags": {
+        "senderUserEmail": "ogulchenko@conductor.com",
+        "senderUserId": "43206",
+        "receiverUserEmail": "ogulchenko@conductor.com",
+        "senderUserName": "Oleksandr Gulchenko",
+        "receiverUserName": "Oleksandr Gulchenko",
+        "workspaceId": "28988"
+      },
+      "id": "66927234-8f49-43f8-a744-593fa95e3a60",
+      "createdAt": 1631641746226,
+      "status": "VIEWED"
+    },
+    {
+      "type": "workspaces.shared",
+      "accountId": 14,
+      "recipientId": 43206,
+      "title": "Oleksandr Gulchenko shared the Workspace '!Safia Test' with you and said:",
+      "message": "Check it out.",
+      "targetUrl": "/14/workspaces/28988",
+      "tags": {
+        "senderUserEmail": "ogulchenko@conductor.com",
+        "senderUserId": "43206",
+        "receiverUserEmail": "ogulchenko@conductor.com",
+        "senderUserName": "Oleksandr Gulchenko",
+        "receiverUserName": "Oleksandr Gulchenko",
+        "workspaceId": "28988"
+      },
+      "id": "3d27f2a3-7a18-4bfe-96c2-e474f8ed028d",
+      "createdAt": 1631641574500,
+      "status": "VIEWED"
+    },
+    {
+      "type": "workspaces.shared",
+      "accountId": 14,
+      "recipientId": 43206,
+      "title": "Oleksandr Gulchenko shared the Workspace '!Safia Test' with you and said:",
+      "message": "Check it out.",
+      "targetUrl": "/14/workspaces/28988",
+      "tags": {
+        "senderUserEmail": "ogulchenko@conductor.com",
+        "senderUserId": "43206",
+        "receiverUserEmail": "ogulchenko@conductor.com",
+        "senderUserName": "Oleksandr Gulchenko",
+        "receiverUserName": "Oleksandr Gulchenko",
+        "workspaceId": "28988"
+      },
+      "id": "644cacd4-11b3-42b4-9502-4e3e6e076b9d",
+      "createdAt": 1631640667917,
+      "status": "VIEWED"
+    },
+    {
+      "type": "workspaces.shared",
+      "accountId": 14,
+      "recipientId": 43206,
+      "title": "Oleksandr Gulchenko shared the Workspace '!Safia Test' with you and said:",
+      "message": "asd",
+      "targetUrl": "/14/workspaces/28988",
+      "tags": {
+        "senderUserEmail": "ogulchenko@conductor.com",
+        "senderUserId": "43206",
+        "receiverUserEmail": "ogulchenko@conductor.com",
+        "senderUserName": "Oleksandr Gulchenko",
+        "receiverUserName": "Oleksandr Gulchenko",
+        "workspaceId": "28988"
+      },
+      "id": "deb68514-96f3-42b6-a05b-b50cf51dfccf",
+      "createdAt": 1631640362742,
+      "status": "VIEWED"
+    },
+    {
+      "type": "workspaces.shared",
+      "accountId": 14,
+      "recipientId": 43206,
+      "title": "Oleksandr Gulchenko shared the Workspace '!Safia Test' with you and said:",
+      "message": "Check it out.",
+      "targetUrl": "/14/workspaces/28988",
+      "tags": {
+        "senderUserEmail": "ogulchenko@conductor.com",
+        "senderUserId": "43206",
+        "receiverUserEmail": "ogulchenko@conductor.com",
+        "senderUserName": "Oleksandr Gulchenko",
+        "receiverUserName": "Oleksandr Gulchenko",
+        "workspaceId": "28988"
+      },
+      "id": "2f0454f3-d7d4-4f28-82df-dbd5949cdbcc",
+      "createdAt": 1631640026125,
+      "status": "VIEWED"
+    },
+    {
+      "type": "workspaces.shared",
+      "accountId": 14,
+      "recipientId": 43206,
+      "title": "Oleksandr Gulchenko shared the Workspace '!Safia Test' with you and said:",
+      "message": "asdasdasd",
+      "targetUrl": "/14/workspaces/28988",
+      "tags": {
+        "senderUserEmail": "ogulchenko@conductor.com",
+        "senderUserId": "43206",
+        "receiverUserEmail": "ogulchenko@conductor.com",
+        "senderUserName": "Oleksandr Gulchenko",
+        "receiverUserName": "Oleksandr Gulchenko",
+        "workspaceId": "28988"
+      },
+      "id": "6b10efaf-8be1-47bb-8318-dbc6661a77e5",
+      "createdAt": 1631639492757,
+      "status": "VIEWED"
+    },
+    {
+      "type": "workspaces.shared",
+      "accountId": 14,
+      "recipientId": 43206,
+      "title": "Oleksandr Gulchenko shared the Workspace '*Create Your Own Workspace*' with you and said:",
+      "message": "asdasd",
+      "targetUrl": "/14/workspaces/22899",
+      "tags": {
+        "senderUserEmail": "ogulchenko@conductor.com",
+        "senderUserId": "43206",
+        "receiverUserEmail": "ogulchenko@conductor.com",
+        "senderUserName": "Oleksandr Gulchenko",
+        "receiverUserName": "Oleksandr Gulchenko",
+        "workspaceId": "22899"
+      },
+      "id": "447acf2a-c725-496f-8167-0e0ce50d16d4",
+      "createdAt": 1631633985178,
+      "status": "VIEWED"
+    },
+    {
+      "type": "workspaces.shared",
+      "accountId": 14,
+      "recipientId": 43206,
+      "title": "Oleksandr Gulchenko shared the Workspace '!Safia Test' with you and said:",
+      "message": "Check it out.",
+      "targetUrl": "/14/workspaces/28988",
+      "tags": {
+        "senderUserEmail": "ogulchenko@conductor.com",
+        "senderUserId": "43206",
+        "receiverUserEmail": "ogulchenko@conductor.com",
+        "senderUserName": "Oleksandr Gulchenko",
+        "receiverUserName": "Oleksandr Gulchenko",
+        "workspaceId": "28988"
+      },
+      "id": "63882117-0403-4b6b-afe1-5238cf1ca3c7",
+      "createdAt": 1631097148053,
+      "status": "VIEWED"
+    },
+    {
+      "type": "workspaces.shared",
+      "accountId": 14,
+      "recipientId": 43206,
+      "title": "Oleksandr Gulchenko shared the Workspace '!Safia Test' with you and said:",
+      "message": "Check it out.",
+      "targetUrl": "/14/workspaces/28988",
+      "tags": {
+        "senderUserEmail": "ogulchenko@conductor.com",
+        "senderUserId": "43206",
+        "receiverUserEmail": "ogulchenko@conductor.com",
+        "senderUserName": "Oleksandr Gulchenko",
+        "receiverUserName": "Oleksandr Gulchenko",
+        "workspaceId": "28988"
+      },
+      "id": "6dd47254-cdcc-47f9-a839-9f1cb48505a7",
+      "createdAt": 1631097147699,
+      "status": "VIEWED"
+    }
+  ]
+}
